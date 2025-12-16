@@ -1,0 +1,7 @@
+1.0:
+
+* Released
+
+1.0.1:
+
+* Modified so doors can now open backwards
